@@ -1,0 +1,21 @@
+.wrapper {
+  background: #ffffff;
+  border: 1px solid #dde4ea;
+  border-radius: 8px;
+  box-shadow: 0 18px 50px rgba(18, 32, 52, 0.08);
+  overflow: hidden;
+  padding: 1rem;
+}
+
+.runSVG {
+  height: auto;
+  width: 100%;
+  margin: 0.75rem 0 0;
+}
+
+.center {
+  text-align: center;
+  color: #5b667a;
+  font-weight: 800;
+  padding: 2rem;
+}
