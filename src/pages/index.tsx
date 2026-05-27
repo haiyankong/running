@@ -149,7 +149,7 @@ const Index = () => {
     <Layout>
       <section className="mb-6">
         <h1 className="text-5xl font-black italic leading-none text-primary sm:text-6xl lg:text-7xl">
-          Workout Atlas
+          Running
         </h1>
       </section>
 

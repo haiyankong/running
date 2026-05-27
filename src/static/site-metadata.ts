@@ -11,7 +11,7 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Workout Atlas',
+  siteTitle: 'Running',
   siteUrl: '/',
   logo: '',
   description: 'Personal workout routes and training data.',
