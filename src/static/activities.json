@@ -4270,5 +4270,37 @@
 "elevation_gain": 0.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 18695857459,
+"name": "Strength Training",
+"distance": 0.0,
+"moving_time": "1:15:16",
+"type": "Workout",
+"start_date": "2026-05-28 22:20:09+00:00",
+"start_date_local": "2026-05-28 18:20:09",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": null,
+"average_speed": 0.0,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 18697801522,
+"name": "Fireflies",
+"distance": 1250.2,
+"moving_time": "0:24:26",
+"type": "Hike",
+"start_date": "2026-05-29 00:55:16+00:00",
+"start_date_local": "2026-05-28 20:55:16",
+"location_country": "Firefly Trail, Richland County, \u5357\u5361\u7f57\u6765\u7eb3\u5dde;\u5357\u5361\u7f85\u840a\u7d0d\u5dde, 26091, \u7f8e\u56fd;\u7f8e\u570b",
+"summary_polyline": "sfnmEhzhlNe@Ta@HAJGPGZ?b@O|ABXPL@FHEBEE@@Ah@FLBB?No@FMHGGOI?AFn@O\\@JE@GAB@DBBH?JGFEHy@Bu@CKE?d@^Fq@Cw@Lj@MeADa@DIl@i@X]FU@o@PAMHG?Bd@CXMVk@~@ITI^KlAU~AQP[LOBYKSBIHe@j@KTETIJOF[?MIKIO]Ea@BIFIBKDoBA@AAEVOb@[kBDG?G",
+"average_heartrate": 98.3,
+"average_speed": 0.853,
+"elevation_gain": 4.8,
+"source": "strava",
+"streak": 1
 }
 ]
